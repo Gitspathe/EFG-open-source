@@ -71,6 +71,7 @@
     <Compile Include="src\Tiles\Farm\SellingBooth\SellingBooth.cs" />
     <Compile Include="src\Tiles\Home\Bed\Bed.cs" />
     <Compile Include="src\Tiles\InteractableTile.cs" />
+    <Compile Include="src\Utility\StateMachine.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
